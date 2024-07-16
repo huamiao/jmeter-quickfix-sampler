@@ -1,0 +1,14 @@
+# java project files
+/target
+/.classpath
+/.settings
+/.project
+/test-output
+**/*.jar
+**/*.zip
+
+# ide files
+/.vscode
+
+# misc
+.DS_Store
