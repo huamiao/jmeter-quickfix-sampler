@@ -7,7 +7,7 @@ A JMeter Sampler to add fix protocol support based on [QuickFIX/J](https://githu
     ```shell
     mvn package
     ```
-3. Copy target/quickfix-sampler-<ver>.jar to your JMeter plugins dir.
+3. Copy target/quickfix-sampler-{version}.jar to your JMeter plugins dir.
 
 ## Third party components
 * This product includes software developed by quickfixengine.org (http://www.quickfixengine.org/).
